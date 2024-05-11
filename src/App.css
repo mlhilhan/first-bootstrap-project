@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-signup {
+  color: #ffc107 !important;
+  border-color: #ffc107 !important;
+  background-color: transparent !important;
+}
+
+.btn-signup:hover {
+  background-color: #ffc107 !important;
+  color: white !important;
+}
+
+body {
+  background-color: white;
+}
+
+.light-yellow-bg {
+  background-color: #ffffc4;
+}
+
+.info-lorem-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: lightyellow;
+  padding: 20px 0;
+}
